@@ -2,6 +2,6 @@
 
 
 
-## Update 🔥
+## 🔥 Update
 
 [2026.06]🚀 We finish the model training and evaluation.
